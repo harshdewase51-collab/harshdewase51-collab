@@ -1,35 +1,27 @@
 # Hi, I'm Harsh Dewase 👋
 
-Java Full Stack Developer | Java | Spring Boot | SQL | DSA
+### 🎓 Computer Science Student | 💻 Java Full Stack Developer | 🚀 Software Developer
 
-## About Me
+Passionate about building real-world applications and learning modern technologies.
+🌱 Always Learning • 🚀 Always Building
 
-- 🎓 Computer Science Student
-- 💻 Learning Java Full Stack Development
-- 🚀 Building real-world software projects
-- 🌱 Currently improving Java, Spring Boot, SQL and DSA
+## 🛠️ Skills
 
-## Tech Stack
+**Java • Spring Boot • SQL • HTML • CSS • JavaScript**
+**Git • GitHub • REST APIs • DSA**
 
-- Java
-- Spring Boot
-- SQL
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+## 🚀 Projects
 
-## Projects
+🦁 **WildTrackr** — AI-powered wildlife camera-trap intelligence system
 
-### WildTrackr
-AI-powered wildlife camera-trap intelligence system.
+✅ **TaskFlow** — Responsive To-Do application using HTML, CSS & JavaScript
 
-### TaskFlow
-Responsive To-Do application built using HTML, CSS and JavaScript.
+🌐 **AI Landing Page** — Responsive landing page using HTML & CSS
 
-### AI Landing Page
-Responsive landing page built using HTML and CSS.
+## 🌱 Currently Learning
 
-## Connect With Me
+Java • Spring Boot • SQL • DSA • Full Stack Development
 
-[LinkedIn](https://www.linkedin.com/in/harsh-dewase-ha87)
+---
+
+⭐ Thanks for visiting my profile!
