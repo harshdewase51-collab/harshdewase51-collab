@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Harsh Dewase 👋
 
-<!--
-**harshdewase51-collab/harshdewase51-collab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java Full Stack Developer | Java | Spring Boot | SQL | DSA
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Computer Science Student
+- 💻 Learning Java Full Stack Development
+- 🚀 Building real-world software projects
+- 🌱 Currently improving Java, Spring Boot, SQL and DSA
+
+## Tech Stack
+
+- Java
+- Spring Boot
+- SQL
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+## Projects
+
+### WildTrackr
+AI-powered wildlife camera-trap intelligence system.
+
+### TaskFlow
+Responsive To-Do application built using HTML, CSS and JavaScript.
+
+### AI Landing Page
+Responsive landing page built using HTML and CSS.
+
+## Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/harsh-dewase-ha87)
